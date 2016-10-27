@@ -1,0 +1,35 @@
+{
+  "name": "normalize-prefix",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Normalize an object based on one or more prefixes",
+  "license": "MIT",
+  "repository": "bendrucker/normalize-prefix",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "object",
+    "normalize",
+    "prefix",
+    "data"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "cast-array": "~1.0.1",
+    "is-obj": "~1.0.1"
+  }
+}
