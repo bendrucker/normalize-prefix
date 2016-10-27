@@ -1,7 +1,7 @@
 {
   "name": "normalize-prefix",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Normalize an object based on one or more prefixes",
   "license": "MIT",
   "repository": "bendrucker/normalize-prefix",
