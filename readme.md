@@ -1,4 +1,4 @@
-# normalize-prefix [![Build Status](https://travis-ci.org/bendrucker/normalize-prefix.svg?branch=master)](https://travis-ci.org/bendrucker/normalize-prefix)
+# normalize-prefix [![Build Status](https://travis-ci.org/bendrucker/normalize-prefix.svg?branch=master)](https://travis-ci.org/bendrucker/normalize-prefix) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/normalize-prefix.svg)](https://greenkeeper.io/)
 
 > Normalize an object based on a specified prefix
 
